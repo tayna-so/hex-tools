@@ -1,1 +1,1 @@
-Hi, this is my first project on git.
+Hi. This is my fisrt project on github.
